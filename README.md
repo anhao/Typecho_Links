@@ -1,6 +1,7 @@
 # Typecho_Links
 
-links ²å¼şĞŞ¸Ä°æ,ÊÊÅäÓÚAL_lolimeowÖ÷Ìâ  
+links æ’ä»¶ä¿®æ”¹ç‰ˆ,é€‚é…äºAL_lolimeowä¸»é¢˜  
 
+ä¸Šä¼ æ’ä»¶æ–‡ä»¶å¤¹ï¼Œè¯·æŠŠTypecho_Links_master æ”¹æˆ
 
-ÁË½âAL_lolimeow https://github.com/anhao/al_lolimeow
+äº†è§£AL_lolimeow https://github.com/anhao/al_lolimeow
